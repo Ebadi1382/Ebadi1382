@@ -13,7 +13,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebadi1382&radius=16&theme=arctic&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Ebadi1382&theme=algolia&column=5&row=1&margin-w=10&margin-h=11&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
+<br/>
 ###
 
 <div align="center">
