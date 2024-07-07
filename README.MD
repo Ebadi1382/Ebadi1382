@@ -143,11 +143,11 @@
 
 ### 🔝 Top Contributed Repo
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ebadi1382&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
