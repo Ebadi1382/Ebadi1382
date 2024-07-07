@@ -143,11 +143,11 @@
 
 ### 🔝 Top Contributed Repo
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Ebadi1382&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" alt="top repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Ebadi1382&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" width="500" alt="top repo" />
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" alt="random quote" />
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
