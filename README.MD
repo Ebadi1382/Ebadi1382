@@ -16,59 +16,133 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="70" alt="sass logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="70" alt="bootstrap logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="70" alt="materialui logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="70" alt="tailwindcss logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" alt="javascript logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="70" alt="webpack logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" alt="react logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="70" alt="redux logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="70" alt="jest logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="70" alt="nextjs logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="70" alt="nodejs logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" alt="express logo"  />
-  <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="mongodb logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="70" alt="jira logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="70" alt="figma logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="70" alt="eslint logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="70" alt="firebase logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="70" alt="docker logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="70" alt="filezilla logo"  />
-  <img width="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="70" alt="git logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="70" alt="postman logo"  />
-  <img width="50" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="70" alt="vite logo"  />
+# 💻 My favorite tools and technologies
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="65" height="65" />
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="65" height="65" />
+      </a>
+      <br>Css
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material Ui" width="65" height="65" />
+      <br>Material Ui
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind Css" width="65" height="65" />
+      <br>Tailwind Css
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaSript" width="65" height="65" />
+      <br>JavaSript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="WebPack" width="65" height="65" />
+      <br>WebPack
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next Js" />
+      <br>Next Js
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node Js" />
+      <br>Node Js
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDb" />
+      <br>Mongodb
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/eslint/4B32C3" width="48" height="48" alt="EsLint" />
+      <br>EsLint
+    </td>
+        <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="48" height="48" alt="FireBase" />
+      <br>FireBase
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docher
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/filezilla/BF0000" width="48" height="48" alt="FileZilla" />
+      <br>FileZilla
+    </td>
+              <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+              <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+              <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="PostMan" />
+      <br>PostMan
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/vite/646CFF" width="48" height="48" alt="VIte" />
+      <br>Vite
+    </td>
+ </tr>
+</table>
+<br><br>
+
 </div>
+<br/>  
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
