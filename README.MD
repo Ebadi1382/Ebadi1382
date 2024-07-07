@@ -139,12 +139,17 @@
 </table>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div style="display: flex; align-items: flex-start; align: center">
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Ebadi1382&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
   <img height="175" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh8vshokrazrgrnurqed8.jpg"  />
