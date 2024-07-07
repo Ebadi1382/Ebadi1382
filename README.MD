@@ -186,10 +186,8 @@
 <h3 align="center">have a nice day🎉</h3>
 <br/>
 <h3 align="center">I am glad you gave me your time😁🙃</h3>
-<div style="display: flex; justify-content:align-between align: center">
+
 <h3 align="left" dir="rtl">🧿🧿🧿</h3>
-<h3 align="right" dir="ltr">🧿🧿🧿</h3>
-</div>
 
 ###
 
