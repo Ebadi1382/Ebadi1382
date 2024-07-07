@@ -139,7 +139,7 @@
 </table>
 </div>
 
-<div style="display: flex; align-items: flex-center; align: center">
+<div style="display: flex; align-items: flex-center;" align="center" >
 
 ### 🔝 Top Contributed Repo
 
