@@ -16,7 +16,7 @@
 
 ###
 
-# 💻 My favorite tools and technologies
+# 💻 My Skills
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -120,8 +120,8 @@
       <br>FileZilla
     </td>
               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="GitHub" />
+      <br>Rest Api
     </td>
               <td align="center" width="96">
         <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" />
@@ -137,8 +137,6 @@
     </td>
  </tr>
 </table>
-<br><br>
-
 </div>
 <br/>  
   
