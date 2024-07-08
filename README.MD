@@ -1,4 +1,4 @@
-<h1 align="left">Hello Im Alireza Ebadi (Mern Stack Developer)😁😉</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+Im+Alireza+Ebadi%F0%9F%99%8C%F0%9F%98%81;I'm+mernStack+Developer+%F0%9F%98%89)](https://git.io/typing-svg)
 
 ###
 
