@@ -183,6 +183,7 @@
 <br/>
 <h3 align="center">You are completely free to use this readme 😁😎💯.</h3>
 <h3 align="center">But if you use it, please mention my name to show that you appreciate my efforts.</h3>
+<h3 align="center">like this: <a>[text](https://github.com/Ebadi1382)</a> </h3>
 <h3 align="center">have a nice day🎉</h3>
 <br/>
 <h3 align="center">I am glad you gave me your time😁🙃</h3>
